@@ -1,0 +1,8 @@
+{
+  "Comment": {
+    "scope": "javascript,typescript",
+    "prefix": "cmt",
+    "body": ["-------------------- $1 --------------------"],
+    "description": "Sample Comment"
+  }
+}
